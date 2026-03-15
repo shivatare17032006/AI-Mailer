@@ -198,7 +198,8 @@ MIT License
 
 ## 👨‍💻 Author
 
-Aryan - AI Email Campaign Manager Project
+Aryan Shivatare
+
 
 ---
 
